@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(255, 255, 255);
+    flex-direction: row-reverse;
+    height: 1300px;
+    width: 1880px;
+}
+.header{
+   
+  }
+  .container{
+    display: flex;
+  }
+  
+  .foto1{
+   width: 300px;
+   height: 300px;
+  }
+  .foto2{
+   width: 300px;
+   height: 300px;
+  } 
+  .foto3{
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  }
+.section1{
+
+    background-color: rgb(255, 255, 255);
+    width: 590px;
+    height: 1300px;
+    justify-content: space-between;
+    
+}
+.section2{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 1300px;
+    justify-content: space-between;
+}
+.section3{
+    background-color: rgb(255, 255, 255);
+    width: 590px;
+    height: 1300px;
+    justify-content: space-between;
+}
+footer{
+  background-color: #2a8af8;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 1880px;
+ height: 150px;
+}
+.textofooter{
+    color: rgb(255, 255, 255);
+}
+.entrar{
+    color: #2a8af8;
+    border-radius: 30px;
+    width: 140px;
+    height: 40px;
+}
+.login{
+    align-items: center;
+    justify-content: center;
+}
+.Increver-se{
+    color: white;
+    border-radius: 30px;
+    width: 140px;
+    height: 40px;
+}
+.Entrarnotwitter{
+    border-radius: 30px;
+    width: 140px;
+    height: 40px;
+}
+.bhy{
+    border-radius: 30px;
+    width: 140px;
+    height: 40px; 
+}
